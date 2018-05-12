@@ -1,0 +1,41 @@
+_repo: Le-Cathecumene-traduit-du-chinois_44017
+_version: 0.1.0
+contributor:
+  dubious_authors:
+  - agent_name: Voltaire
+    aliases:
+    - Arouet, Francois Marie
+    - Arouet, François Marie
+    birthdate: 1694
+    deathdate: 1778
+    gutenberg_agent_id: '913'
+    url: http://www.gutenberg.org/2009/agents/913
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Voltaire
+    - http://fr.wikipedia.org/wiki/Voltaire
+  - agent_name: Bordes, Charles
+    alias: Borde, Charles
+    birthdate: 1711
+    deathdate: 1781
+    gutenberg_agent_id: '32812'
+    url: http://www.gutenberg.org/2009/agents/32812
+covers:
+- cover_type: archival
+  image_path: 44017-h/images/cover.jpg
+description: Variously attributed to Voltaire and Bordes.
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Humour
+gutenberg_issued: '2013-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44017'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Christianity -- Controversial literature -- Early works to 1800'
+title: Le Cathécumène, traduit du chinois
+url: http://www.gutenberg.org/ebooks/44017

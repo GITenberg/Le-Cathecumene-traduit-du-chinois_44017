@@ -23,6 +23,8 @@ covers:
 - cover_type: archival
   image_path: 44017-h/images/cover.jpg
 description: Variously attributed to Voltaire and Bordes.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44017#Le-Cathecumene-traduit-du-chinois
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Humour
